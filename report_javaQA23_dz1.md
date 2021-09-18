@@ -8,7 +8,7 @@
 
 ## В результате тестирования выявлены следующие дефекты:
 
-* [Не могу ввести пароль в GIT ](https://github.com/cris120480/Questions.git)
+* [Не могу ввести пароль в GIT ](https://github.com/cris120480/Questions/blob/master/%D0%9F%D1%80%D0%BE%D0%B1%D0%BB%D0%B5%D0%BC%D0%B0%20%D1%81%20%D0%B2%D0%B2%D0%BE%D0%B4%D0%BE%D0%BC%20%D0%BF%D0%B0%D1%80%D0%BE%D0%BB%D1%8F.png)
 
 ## Описание процесса тестирования
 
